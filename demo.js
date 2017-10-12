@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var fs = require('fs')
 
 var dirName = process.argv[2] 
